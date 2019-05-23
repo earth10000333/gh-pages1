@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":594}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":527.3333333333334,"scrollY":608},
+{"id":2,"expanded":true,"name":"プロローグ","order":2,"parentId":1,"scrollX":527.3333333333334,"scrollY":618.6666666666666},
+{"id":3,"expanded":true,"name":"旅立ちの世界","order":3,"parentId":2,"scrollX":527.3333333333334,"scrollY":618.6666666666666},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":3,"scrollX":516.6666666666666,"scrollY":1301.3333333333333}
 ]
