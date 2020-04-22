@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"基本的なパラメーターを設定するプラグインです。","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"MadeWithMv","status":false,"description":"メイン画面へ進む前に、\"Made with MV\"のスプラッシュ画面もしくはカスタマイズされたスプラッシュ画面を表示します。","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}}
+{"name":"MadeWithMv","status":true,"description":"メイン画面へ進む前に、\"Made with MV\"のスプラッシュ画面もしくはカスタマイズされたスプラッシュ画面を表示します。","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
+{"name":"NobleMushroom","status":true,"description":"ビジュアルノベルプラグイン","parameters":{"表示タイプ初期値":"1","タイトル表示タイプ":"1","コマンド単位ウェイト":"ON","表示速度変数":"1","表示速度初期値":"1","クリック瞬間表示":"ON","自動改行":"ON","相対フォントサイズ":"6","明朝体表示":"ON","ゴシック体表示":"OFF","選択肢接頭辞":"0","画面横サイズ":"0","画面縦サイズ":"0","モバイル画面横サイズ":"0","モバイル画面縦サイズ":"0","モバイルモード":"OFF"}}
 ];
